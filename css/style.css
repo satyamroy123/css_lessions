@@ -1,0 +1,19 @@
+Body {
+    background: pink;
+    font-family: Arial;
+}
+
+h1, h2, h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+.blueboadtext{
+    font-size: small;
+    font-weight: bold;
+    color: blueviolet;
+}
+.redboadtext{
+    font-size: large;
+    font-weight: lighter;
+    color: red;
+}
